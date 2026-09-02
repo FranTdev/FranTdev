@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Francisco Steven Tabares Ussa 👋
+# Hi there, I'm Francisco S. Tabares U. 👋
 ### **Software Engineer | Backend Development • Distributed Systems • Game Infrastructure**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-frantdev.github.io%2Fportfolio-4edea3?style=for-the-badge&logoColor=white)](https://frantdev.github.io/portfolio/)
